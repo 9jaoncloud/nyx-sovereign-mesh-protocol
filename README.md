@@ -3,6 +3,7 @@
 **Created by Simeon Bala & 9jaonCloud Engineering**
 
 [![Academic Research Paper](https://img.shields.io/badge/Academic_Paper-Published_Oct_2026-8b5cf6?style=for-the-badge&logo=read-the-docs)](https://nyx.9jaoncloud.com.ng/docs/paper/nyx_sovereign_mesh_protocol_nsmp_2026.html)
+[![Download Word DOCX](https://img.shields.io/badge/ResearchGate_DOCX-Download_Paper-2563eb?style=for-the-badge&logo=microsoft-word)](https://nyx.9jaoncloud.com.ng/docs/paper/nyx_sovereign_mesh_protocol_nsmp_2026.docx)
 [![Live Research Portal](https://img.shields.io/badge/Live_Portal-nyx.9jaoncloud.com.ng-38bdf8?style=for-the-badge&logo=firefox)](https://nyx.9jaoncloud.com.ng/docs/paper/papers.html)
 [![Silicon Verification](https://img.shields.io/badge/Hardware_Verified-Intel_i7--6700HQ-10b981?style=for-the-badge&logo=intel)](https://nyx.9jaoncloud.com.ng/benchmarks.html)
 [![License: BSL 1.1 / Reciprocal](https://img.shields.io/badge/License-BSL_1.1_%2F_Reciprocal-f59e0b?style=for-the-badge)](LICENSE.md)
@@ -150,3 +151,4 @@ This project is licensed under the **Business Source License 1.1 (BSL 1.1)** wit
 - **Free for Community, Educational & Off-Grid Mesh Use**: Completely free to inspect, deploy, and operate for non-commercial and community mesh networks.
 - **Attribution Invariant**: All derivatives and compatible implementations must preserve the Genesis Protocol Attribution to **Simeon Bala & 9jaonCloud Engineering**.
 - **Commercial Hardware & OEM Deployment**: Commercial hardware manufacturers, commercial satellite operators, and proprietary drone/avionics integration require a commercial OEM license. See [`LICENSE.md`](LICENSE.md) for details.
+- **Official Inquiries & Licensing:** `info@9jaoncloud.com.ng`

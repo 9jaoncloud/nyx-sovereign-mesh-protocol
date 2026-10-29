@@ -3,7 +3,7 @@
 **A Formal Systems Blueprint and Empirical Verification of Un-Censorable, Jitter-Free Mesh Networking**
 
 **Author:** Simeon Bala  
-**Email:** 9jaoncloud@gmail.com  
+**Email:** info@9jaoncloud.com.ng  
 **Institution:** Nyx Language Research Group & Sovereign Computing Initiative  
 **Date:** October 2026  
 **Website:** [https://nyx.9jaoncloud.com.ng](https://nyx.9jaoncloud.com.ng) | [https://github.com/9jaoncloud/nyx](https://github.com/9jaoncloud/nyx)  

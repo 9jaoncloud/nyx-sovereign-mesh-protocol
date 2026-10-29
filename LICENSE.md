@@ -19,7 +19,7 @@ Use of the Licensed Work, or any derivative work thereof, in or with a **Commerc
 
 For commercial licensing, enterprise partnerships, or hardware certification, contact:
 - **Licensor:** Simeon Bala / 9jaonCloud Engineering
-- **Email:** 9jaoncloud@gmail.com / simeon@9jaoncloud.com
+- **Email:** info@9jaoncloud.com.ng
 - **Website:** https://nyx.9jaoncloud.com.ng
 
 ## 4. Change Date
