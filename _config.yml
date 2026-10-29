@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Nyx Sovereign Mesh Protocol (NSMP)
+description: A Zero-GC, Cryptographic Identity-Addressed, Multi-Bearer Ad-Hoc Communication Protocol
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/9jaoncloud/nyx-sovereign-mesh-protocol
